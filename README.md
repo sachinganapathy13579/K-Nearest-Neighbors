@@ -24,7 +24,7 @@
 
         * Fe: Iron
 
-      ## Type of glass: 
+      Type of glass: 
         
          1 -- building_windows_float_processed
          2 --building_windows_non_float_processed
